@@ -28,10 +28,7 @@ to mover
     let come 1
     set come random 2
 
-    ask turtles [
-      if not any? turtles-on patches
-      [ fd 1 ]
-    ]
+ 
 
 
 
